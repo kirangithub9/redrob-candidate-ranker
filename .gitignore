@@ -1,0 +1,5 @@
+﻿venv/
+__pycache__/
+*.pyc
+data/candidates.jsonl
+.env

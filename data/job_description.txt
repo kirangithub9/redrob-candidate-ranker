@@ -1,0 +1,43 @@
+Job Description: Senior AI Engineer — Founding Team
+Company: Redrob AI (Series A AI-native talent intelligence platform)
+Location: Pune/Noida, India (Hybrid)
+Employment Type: Full-time
+Experience Required: 5–9 years
+
+ROLE SUMMARY:
+Own the intelligence layer of Redrob's product — ranking, retrieval, and matching systems.
+
+MUST HAVE SKILLS:
+- Production experience with embeddings-based retrieval systems (sentence-transformers, OpenAI embeddings, BGE, E5)
+- Production experience with vector databases or hybrid search (Pinecone, Weaviate, Qdrant, Milvus, Elasticsearch, FAISS)
+- Strong Python — code quality matters
+- Hands-on experience designing evaluation frameworks for ranking systems (NDCG, MRR, MAP, A/B testing)
+- Experience with LLMs, RAG, fine-tuning, prompt engineering
+
+NICE TO HAVE:
+- LLM fine-tuning (LoRA, QLoRA, PEFT)
+- Learning-to-rank models (XGBoost-based or neural)
+- HR-tech, recruiting tech, or marketplace products
+- Distributed systems or large-scale inference optimization
+- Open-source contributions in AI/ML
+
+EXPERIENCE PROFILE:
+- 5-9 years total, 4-5 years in applied ML/AI at product companies (NOT pure services)
+- Has shipped end-to-end ranking, search, or recommendation systems to real users at scale
+- Strong opinions on retrieval (hybrid vs dense), evaluation (offline vs online), LLM integration
+- Located in or willing to relocate to Pune/Noida (Hyderabad, Mumbai, Delhi NCR also welcome)
+
+DISQUALIFIERS:
+- Pure research background without production deployment
+- AI experience only from LangChain/API wrappers without pre-LLM ML background
+- Title chaser (1.5 year job hops)
+- Only consulting firm experience (TCS, Infosys, Wipro, Accenture etc) with no product company
+- Primary expertise in CV, speech, robotics without NLP/IR
+- Inactive on job market (low recruiter response rate, not active recently)
+
+BEHAVIORAL SIGNALS THAT MATTER:
+- Active on platform, open to work
+- Fast recruiter response rate
+- Short notice period preferred (sub-30 days ideal)
+- Interview completion rate
+- GitHub activity

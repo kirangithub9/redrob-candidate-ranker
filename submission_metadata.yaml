@@ -1,0 +1,53 @@
+team_name: "redrob-ranker"
+
+primary_contact:
+  name: "Your Name"
+  email: "your@email.com"
+  phone: "+91-XXXXXXXXXX"
+
+team_members:
+  - name: "Your Name"
+    email: "your@email.com"
+    role: "ML Engineer"
+
+github_repo: "https://github.com/YOUR_USERNAME/redrob-ranker"
+sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+
+compute:
+  platform: "Local CPU"
+  cpu_cores: 4
+  ram_gb: 8
+  python_version: "3.11"
+  os: "Ubuntu 22.04 / Windows 11"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: false
+  pre_computation_time_minutes: 0
+
+ai_tools_used:
+  - "Claude"
+
+ai_usage_summary: |
+  Used Claude for architecture discussion and code review.
+  No candidate data was fed to any external LLM.
+  All ranking is done locally with no API calls.
+
+methodology_summary: |
+  Rule-based multi-signal ranker with JD-specific scoring components.
+  Five main signals: (1) core skill match weighted by proficiency,
+  endorsements, duration, and assessment scores — with keyword-stuffing
+  penalty; (2) career history scoring across title alignment, AI experience
+  ratio, product-company vs consulting signal, and job-hopping detection;
+  (3) platform behavioral signals — recency, open-to-work, recruiter
+  response rate, GitHub activity, notice period; (4) education tier;
+  (5) location match against JD-preferred cities. The career + skill
+  components dominate (65% combined weight) to prevent keyword stuffers
+  from ranking high. Runtime: ~15 seconds for 100K candidates on CPU.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true

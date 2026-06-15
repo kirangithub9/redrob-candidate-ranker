@@ -1,0 +1,51 @@
+candidate_id,rank,score,reasoning
+CAND_0000031,1,0.4888,Recommendation Systems Engineer with 6.0 yrs; core skill match 0.33; career fit 0.76; behavioral 0.84; response rate 0.91.
+CAND_0000015,2,0.379,Software Engineer with 5.4 yrs; core skill match 0.08; career fit 0.56; behavioral 0.58; response rate 0.32.
+CAND_0000025,3,0.3336,Frontend Engineer with 7.3 yrs; core skill match 0.00; career fit 0.38; behavioral 0.71; response rate 0.74.
+CAND_0000023,4,0.3181,Software Engineer with 3.7 yrs; core skill match 0.00; career fit 0.49; behavioral 0.62; response rate 0.57.
+CAND_0000018,5,0.2968,Frontend Engineer with 6.6 yrs; core skill match 0.00; career fit 0.56; behavioral 0.29; response rate 0.16.
+CAND_0000001,6,0.2942,Backend Engineer with 6.9 yrs; core skill match 0.30; career fit 0.52; behavioral 0.73; response rate 0.34.
+CAND_0000007,7,0.2897,Civil Engineer with 5.5 yrs; core skill match 0.00; career fit 0.20; behavioral 0.68; response rate 0.62.
+CAND_0000032,8,0.2852,.NET Developer with 8.1 yrs; core skill match 0.11; career fit 0.20; behavioral 0.42; response rate 0.69.
+CAND_0000048,9,0.2804,Mobile Developer with 9.7 yrs; core skill match 0.00; career fit 0.20; behavioral 0.66; response rate 0.65.
+CAND_0000044,10,0.28,Frontend Engineer with 5.7 yrs; core skill match 0.04; career fit 0.42; behavioral 0.37; response rate 0.66.
+CAND_0000045,11,0.2749,Project Manager with 12.2 yrs; core skill match 0.00; career fit 0.20; behavioral 0.69; response rate 0.62.
+CAND_0000011,12,0.2717,QA Engineer with 2.0 yrs; core skill match 0.12; career fit 0.16; behavioral 0.48; response rate 0.56.
+CAND_0000033,13,0.2691,Graphic Designer with 8.6 yrs; core skill match 0.00; career fit 0.20; behavioral 0.65; response rate 0.08.
+CAND_0000016,14,0.2683,Accountant with 5.3 yrs; core skill match 0.00; career fit 0.19; behavioral 0.64; response rate 0.64.
+CAND_0000005,15,0.2681,Accountant with 11.0 yrs; core skill match 0.00; career fit 0.20; behavioral 0.58; response rate 0.37.
+CAND_0000041,16,0.2565,Operations Manager with 13.7 yrs; core skill match 0.00; career fit 0.20; behavioral 0.60; response rate 0.07.
+CAND_0000039,17,0.2465,Marketing Manager with 3.9 yrs; core skill match 0.00; career fit 0.20; behavioral 0.54; response rate 0.52.
+CAND_0000019,18,0.2443,Project Manager with 6.5 yrs; core skill match 0.00; career fit 0.20; behavioral 0.53; response rate 0.34.
+CAND_0000013,19,0.2384,Civil Engineer with 1.1 yrs; core skill match 0.00; career fit 0.16; behavioral 0.66; response rate 0.28.
+CAND_0000050,20,0.2382,Business Analyst with 13.5 yrs; core skill match 0.00; career fit 0.18; behavioral 0.40; response rate 0.42.
+CAND_0000020,21,0.2363,Mechanical Engineer with 6.3 yrs; core skill match 0.00; career fit 0.20; behavioral 0.46; response rate 0.55.
+CAND_0000036,22,0.2284,Project Manager with 11.3 yrs; core skill match 0.00; career fit 0.20; behavioral 0.55; response rate 0.40.
+CAND_0000022,23,0.2274,Mechanical Engineer with 1.1 yrs; core skill match 0.00; career fit 0.20; behavioral 0.58; response rate 0.27.
+CAND_0000046,24,0.2235,Mechanical Engineer with 7.8 yrs; core skill match 0.00; career fit 0.20; behavioral 0.51; response rate 0.41.
+CAND_0000002,25,0.2229,Operations Manager with 12.5 yrs; core skill match 0.00; career fit 0.20; behavioral 0.50; response rate 0.29.
+CAND_0000026,26,0.2219,Graphic Designer with 6.8 yrs; core skill match 0.00; career fit 0.20; behavioral 0.48; response rate 0.59.
+CAND_0000030,27,0.2157,Marketing Manager with 10.0 yrs; core skill match 0.00; career fit 0.20; behavioral 0.47; response rate 0.66.
+CAND_0000042,28,0.2139,HR Manager with 5.0 yrs; core skill match 0.00; career fit 0.20; behavioral 0.48; response rate 0.58.
+CAND_0000004,29,0.2138,Marketing Manager with 3.8 yrs; core skill match 0.00; career fit 0.20; behavioral 0.43; response rate 0.26.
+CAND_0000029,30,0.2104,Business Analyst with 7.2 yrs; core skill match 0.00; career fit 0.20; behavioral 0.34; response rate 0.12.
+CAND_0000049,31,0.2099,Mechanical Engineer with 11.8 yrs; core skill match 0.00; career fit 0.20; behavioral 0.51; response rate 0.59.
+CAND_0000014,32,0.2095,Frontend Engineer with 8.4 yrs; core skill match 0.18; career fit 0.56; behavioral 0.59; response rate 0.80.
+CAND_0000037,33,0.207,Business Analyst with 14.3 yrs; core skill match 0.00; career fit 0.20; behavioral 0.49; response rate 0.78.
+CAND_0000040,34,0.2042,Customer Support with 1.6 yrs; core skill match 0.00; career fit 0.20; behavioral 0.40; response rate 0.46.
+CAND_0000017,35,0.2017,Accountant with 12.3 yrs; core skill match 0.00; career fit 0.20; behavioral 0.31; response rate 0.27.
+CAND_0000024,36,0.1948,HR Manager with 7.5 yrs; core skill match 0.00; career fit 0.03; behavioral 0.55; response rate 0.78.
+CAND_0000034,37,0.1892,Business Analyst with 14.5 yrs; core skill match 0.00; career fit 0.20; behavioral 0.37; response rate 0.15.
+CAND_0000009,38,0.1871,Mechanical Engineer with 11.0 yrs; core skill match 0.00; career fit 0.20; behavioral 0.42; response rate 0.53.
+CAND_0000043,39,0.1842,Cloud Engineer with 8.3 yrs; core skill match 0.26; career fit 0.48; behavioral 0.34; response rate 0.04.
+CAND_0000010,40,0.1823,Data Engineer with 4.6 yrs; core skill match 0.17; career fit 0.53; behavioral 0.53; response rate 0.40.
+CAND_0000006,41,0.1807,Business Analyst with 6.0 yrs; core skill match 0.00; career fit 0.20; behavioral 0.33; response rate 0.12.
+CAND_0000012,42,0.1795,Operations Manager with 1.1 yrs; core skill match 0.00; career fit 0.16; behavioral 0.34; response rate 0.16.
+CAND_0000008,43,0.1655,Operations Manager with 3.6 yrs; core skill match 0.00; career fit 0.00; behavioral 0.37; response rate 0.42.
+CAND_0000047,44,0.1655,Project Manager with 2.4 yrs; core skill match 0.00; career fit 0.00; behavioral 0.53; response rate 0.39.
+CAND_0000028,45,0.161,Operations Manager with 1.1 yrs; core skill match 0.00; career fit 0.00; behavioral 0.48; response rate 0.14.
+CAND_0000003,46,0.1338,Customer Support with 1.1 yrs; core skill match 0.00; career fit 0.00; behavioral 0.45; response rate 0.46.
+CAND_0000038,47,0.0504,Java Developer with 6.7 yrs; core skill match 0.07; career fit 0.20; behavioral 0.60; response rate 0.20.
+CAND_0000027,48,0.0351,DevOps Engineer with 3.9 yrs; core skill match 0.14; career fit 0.00; behavioral 0.65; response rate 0.58.
+CAND_0000021,49,0.0256,Project Manager with 14.5 yrs; core skill match 0.26; career fit 0.16; behavioral 0.42; response rate 0.49.
+CAND_0000035,50,0.0202,Full Stack Developer with 4.3 yrs; core skill match 0.05; career fit 0.20; behavioral 0.45; response rate 0.34.
