@@ -1,16 +1,16 @@
-team_name: "redrob-ranker"
+team_name: "AI-Innovators"
 
 primary_contact:
-  name: "Your Name"
-  email: "your@email.com"
-  phone: "+91-XXXXXXXXXX"
+  name: "Kiran Kumar R"
+  email: "kiran.snowflake5@gmail.com"
+  phone: "+91-7032704155"
 
 team_members:
-  - name: "Your Name"
-    email: "your@email.com"
+  - name: "Kiran Kumar R"
+    email: "kiran.snowflake5@gmail.com"
     role: "ML Engineer"
 
-github_repo: "https://github.com/YOUR_USERNAME/redrob-ranker"
+github_repo: "https://github.com/kirangithub9/redrob-candidate-ranker"
 sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
 reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
 
