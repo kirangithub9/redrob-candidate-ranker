@@ -11,8 +11,8 @@ team_members:
     role: "ML Engineer"
 
 github_repo: "https://github.com/kirangithub9/redrob-candidate-ranker"
-sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
-reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+sandbox_link: "https://huggingface.co/spaces/RajojuKiran6/redrob-candidate-ranker"
+reproduce_command: "python rank.py --candidates ./data/candidates.jsonl --out ./submission.csv"
 
 compute:
   platform: "Local CPU"
